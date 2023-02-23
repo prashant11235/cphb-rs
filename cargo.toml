@@ -1,0 +1,15 @@
+[package]
+name = "ecc25519-rs"
+version = "0.0.1"
+authors = ["Prashant Tripathi <prashant_11235@yahoo.co.in>"]
+license = "Apache-2.0"
+description = ""
+homepage = ""
+repository = "https://github.com/prashant11235/ecc25519-rs"
+keywords = ["ecc25519"]
+readme = "README.md"
+
+[dependencies]
+rand-bytes = "0.2.0"
+
+[dev-dependencies]
